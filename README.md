@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetisharma120588" alt="preetisharma120588" /></a> </p>
 
-- 🔭 I’m currently working on **Maternal Healthcare**
+- 🔭 I’m currently working on **Machine learning concepts**
 
-- 👯 I’m willing to collaborate on **Financial and Logistics**
+- 👯 I’m willing to collaborate on **Healthcare, Finance, EV and Logistics**
 
 - 📝 I regularly write articles on [https://www.numpyninja.com/post/what-is-resampling](https://www.numpyninja.com/post/what-is-resampling)
 
-- 💬 Ask me about **SQL, PowerBI, Tableau, Python and Excel**
+- 💬 Ask me about **SQL, PowerBI, Tableau, Python, Rest API and Excel**
 
 - 📫 How to reach me **bhardwajpreeti17@gmail.com**
 
